@@ -10,4 +10,4 @@ gem 'rspec', group: :test
 
 gem 'sinatra'
 gem 'rubocop'
-# gem 'pg'
+gem 'pg'
